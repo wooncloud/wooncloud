@@ -9,6 +9,18 @@
 
 </div>
 
+### 👋 About Me
+
+I am a **Full-Stack Developer** who bridges the gap between technical excellence and business value. I prioritize user-centric thinking while maintaining a sharp business perspective, collaborating closely with planning and design teams to ensure every feature is both viable and valuable.
+
+*   **🚀 Productivity & Influence**: I am deeply committed to self-improvement and developing solutions that boost productivity. I take pride in sharing my findings with my team to foster a high-impact environment. My colleagues consistently benefit from the tools and solutions I introduce to our workflow.
+
+*   **🎯 Resilience & Quality**: No matter how complex the challenge, I define clear priorities and see every task through to the end. Whether I'm simplifying intricate features or migrating legacy systems to modern, high-quality architectures, I never lose focus on the end goal.
+
+*   **🛠️ Proactive Problem Solving**: I believe there is always room for improvement. I proactively identify bottlenecks, build productivity tools, and establish monitoring environments to ensure our systems—and our team—are always performing at their best.
+
+*   **🌱 Collaborative Growth**: I thrive in environments of mutual respect and active communication. I am a lifelong learner who loves experimenting with cutting-edge technologies and sharing those experiences through code reviews and knowledge-sharing sessions to grow alongside my peers.
+
 <div align="center">
   
 ### 🛠️ Tech Stack
