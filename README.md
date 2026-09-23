@@ -5,7 +5,7 @@
 ### 🏠 Homepage
 
 [![Homepage](https://img.shields.io/badge/Homepage-wooncloud.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://www.wooncloud.com/)
-[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=blogger&logoColor=white)](https://wooncloud.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-blog.wooncloud.com-orange?style=flat-square&logo=blogger&logoColor=white)](https://blog.wooncloud.com/)
 
 </div>
 
